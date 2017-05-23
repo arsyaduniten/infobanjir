@@ -1,0 +1,107 @@
+[
+    {
+        "station": "Sg. Besut di Kg. La",
+        "district": "Besut",
+        "basin": "Sg Besut",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "17.20"
+    },
+    {
+        "station": "Sg.Besut di Jam.Jerteh",
+        "district": "Besut",
+        "basin": "Sg Besut",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "0.47"
+    },
+    {
+        "station": "Sg. Setiu di Kampung Besut",
+        "district": "Setiu",
+        "basin": "Sg.Setiu",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "14.83"
+    },
+    {
+        "station": "Sg.Nerus di Kg Langkap",
+        "district": "Setiu",
+        "basin": "Sg.Terengganu",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "16.67"
+    },
+    {
+        "station": "Sg.Berang di Kg.Menerong",
+        "district": "Hulu Terengganu",
+        "basin": "Sg.Terengganu",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "20.22"
+    },
+    {
+        "station": "Sg.Terengganu di Kg.Dura",
+        "district": "Hulu Terengganu",
+        "basin": "Sg.Terengganu",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "6.12"
+    },
+    {
+        "station": "Sg.Terengganu Di Kg.Tanggol",
+        "district": "Hulu Terengganu",
+        "basin": "Sg.Terengganu",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "2.26"
+    },
+    {
+        "station": "Sg.Marang di Jam.Pengkalan.Berangan",
+        "district": "Marang",
+        "basin": "Sg.Marang",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "-0.60"
+    },
+    {
+        "station": "Sg. Dungun di Kg.Pasir.Raja",
+        "district": "Dungun",
+        "basin": "Sg. Dungun",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "34.38"
+    },
+    {
+        "station": "Sg. Dungun di Kuala Jengai",
+        "district": "Dungun",
+        "basin": "Sg. Dungun",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "15.25"
+    },
+    {
+        "station": "Sg.Dungun di Jambatan Jerangau",
+        "district": "Dungun",
+        "basin": "Sg. Dungun",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "5.22"
+    },
+    {
+        "station": "Sg.Cherul di Jam.Ban.Ho",
+        "district": "Kemaman",
+        "basin": "Sg. Kemaman",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "10.96"
+    },
+    {
+        "station": "Sg. Kemaman di Jambatan Air Putih",
+        "district": "Kemaman",
+        "basin": "Sg. Kemaman",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "8.67"
+    },
+    {
+        "station": "Sg.Kemaman di Rumah Pam Paya Paman",
+        "district": "Kemaman",
+        "basin": "Sg. Kemaman",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "-0.35"
+    },
+    {
+        "station": "Sg.Terengganu di Bukit Tumbuh",
+        "district": "Kuala Terengganu",
+        "basin": "Sg.Terengganu",
+        "latest_update": "19/5/2017 08:15",
+        "water_level": "0.09"
+    }
+]
